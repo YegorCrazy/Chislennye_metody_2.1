@@ -3,3 +3,4 @@ main1.c
 *.o
 *.gch
 *.exe
+*output
